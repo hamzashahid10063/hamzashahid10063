@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Hamza Shahid
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer;Intelligent+Web+Systems+Developer;Building+AI-Powered+Solutions;Scalable+%7C+Production-Ready+%7C+Innovative)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hamza+Shahid+👋;Full+Stack+AI+Engineer+🚀;Intelligent+Web+Systems+Developer+💻;Building+AI-Powered+Solutions+🤖;Scalable+%7C+Production-Ready+%7C+Innovative+⚡)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-hamzashahid10063%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzashahid10063@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Shahid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shahid-m10063)
